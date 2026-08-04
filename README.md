@@ -91,18 +91,18 @@
 
 💬 Always open to learning, collaborating, and building something impactful together!
 
+</div>
+
+---
+
 ## 🐍 Contribution Snake
- 
- <div align="center">
- 
- Watch my contribution graph get eaten by the snake 🐍
- 
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekgaud7/abhishekgaud7/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekgaud7/abhishekgaud7/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekgaud7/abhishekgaud7/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekgaud7/abhishekgaud7/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
- 
- </div>
 </div>
 
 ---
