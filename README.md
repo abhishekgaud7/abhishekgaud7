@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=FF79C6&center=true&vCenter=true&width=650&lines=Hey+There!+I'm+Abhishek+%F0%9F%91%8B;Java+Full+Stack+Developer+%F0%9F%92%BB;B.Tech+Graduate+%2725+%F0%9F%8E%93;Specialized+in+Spring+Boot+%26+React+%F0%9F%9A%80;3x+Internship+Experience+%F0%9F%92%BC" alt="Typing SVG" />
 
+<br/>
+
+<img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif" width="150px" />
+
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=abhishekgaud7&label=Profile+Views&color=ff79c6&style=for-the-badge" />
@@ -53,6 +57,12 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🤖 AI Tools & Assistants
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ### 🔮 Exploring Next
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
