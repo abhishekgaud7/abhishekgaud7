@@ -70,15 +70,18 @@
 
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 ![Stats](https://github-readme-stats-puce-phi-43.vercel.app/api?username=abhishekgaud7&show_icons=true&theme=dracula&border_color=ff79c6&ring_color=ff79c6&title_color=ff79c6)
-
 ![Languages](https://github-readme-stats-puce-phi-43.vercel.app/api/top-langs/?username=abhishekgaud7&layout=compact&theme=dracula&border_color=ff79c6&title_color=ff79c6)
 
 </div>
+
+---
 
 ## 🌐 Connect With Me
 
