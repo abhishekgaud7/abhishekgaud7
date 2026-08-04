@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4a0e8f,80:8b1a8b,100:0d1117&height=220&section=header&text=Abhishek%20Gaud&fontSize=52&fontColor=ff79c6&animation=fadeIn&fontAlignY=38&desc=💻%20Software%20Engineer%20%7C%20☕%20Java%20Full%20Stack%20Developer%20%7C%20🚀%20Spring%20Boot%20%26%20React&descAlignY=60&descSize=16&descColor=bd93f9" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:4a0e8f,80:8b1a8b,100:0d1117&height=220&section=header&text=Abhishek%20Gaud&fontSize=52&fontColor=ff79c6&animation=fadeIn&fontAlignY=38&desc=💻%20Software%20Engineer%20%7C%20☕%20Java%20Full%20Stack%20Developer%20%7C%20🚀%20Spring%20Boot%20and%20React&descAlignY=60&descSize=16&descColor=bd93f9" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=FF79C6&center=true&vCenter=true&width=650&lines=Hey+There!+I'm+Abhishek+%F0%9F%91%8B;Java+Full+Stack+Developer+%F0%9F%92%BB;B.Tech+Graduate+%2725+%F0%9F%8E%93;Specialized+in+Spring+Boot+%26+React+%F0%9F%9A%80;3x+Internship+Experience+%F0%9F%92%BC" alt="Typing SVG" />
 
